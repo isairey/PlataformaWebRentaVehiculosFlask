@@ -205,7 +205,7 @@ Este módulo funciona como administrador principal.
 # 📂 Estructura del proyecto
 
 ```bash
-Car-Rental-DMS/
+PlataformaWebRentaVehiculosFlask/
 │
 ├── main/                     # Aplicación principal Flask
 ├── static/                   # Recursos frontend
@@ -239,7 +239,7 @@ Car-Rental-DMS/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/Car-Rental-DMS.git
+git clone https://github.com/isairey/PlataformaWebRentaVehiculosFlask.git
 ```
 
 ---
